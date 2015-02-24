@@ -1,0 +1,88 @@
+/* copyright: (C) Copyright 2003-2012 FileMaker, Inc. All Rights Reserved */
+#relativeBannerBox {
+	position: relative;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 60px;
+	visibility: visible;
+	display: block;
+	overflow: hidden;
+}
+
+#bannerBox {
+	background-color: #000000;
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 65px;
+	visibility: visible;
+	display: block;
+	overflow: hidden;
+}
+
+#fmBox {
+	text-align: right;
+	position: relative;
+	top: 5px;
+	left: 0px;
+	width: 100%;
+	height: 35px;
+	visibility: visible;
+	display: block;
+}
+
+#homeBox {
+	text-align: right;
+	vertical-align: bottom;
+	position: absolute;
+	top: 40px;
+	left: 0px;
+	width: 100%;
+	height: 25px;
+	visibility: visible;
+	display: block;
+	color: #CCCCCC;
+	font-style: normal;
+	font-size: 16px;
+	font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular;
+}
+
+#iwpTopBox {
+	position: absolute;
+	top: 15px;
+	left: 80px;
+	width: 550px;
+	height: 40px;
+	visibility: visible;
+	display: block;
+	color: #CCCCCC;
+	font-size: 28px;
+	font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular;
+	letter-spacing: -.5px;
+}
+
+#linksBox {
+	position: relative;
+	right: -15px;
+	height: 100%;
+	visibility: visible;
+	display: block;
+	color: #3333CC;
+}
+
+A {
+	color: #3333CC;
+	font-size: 16px;
+	font-family: "Times New Roman", Arial, Helvetica, Geneva, Swiss,
+		SunSans-Regular;
+}
+
+.db {
+	vertical-align: text-bottom;
+}
+
+#linksBox .v-button-caption {
+	font-size: 16px;
+}

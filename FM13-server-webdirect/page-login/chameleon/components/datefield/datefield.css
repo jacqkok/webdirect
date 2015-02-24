@@ -1,0 +1,13 @@
+.iwp .v-datefield-button,
+.iwp .v-datefield-button:active,
+.iwp .v-datefield-button.v-pressed {
+	background: #dadada url(../../img/date-btn.png) repeat-x 50% 0;
+	border: 1px solid gray;
+	-webkit-border-top-right-radius: 3px;
+	-webkit-border-bottom-right-radius: 3px;
+	-moz-border-radius-topright: 3px;
+	-moz-border-radius-bottomright: 3px;
+	padding: 0;
+	height: 23px;
+	width: 25px;
+}
