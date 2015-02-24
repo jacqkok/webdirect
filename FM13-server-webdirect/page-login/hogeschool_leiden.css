@@ -1,0 +1,75 @@
+
+
+body .v-window-modalitycurtain {
+    background: #fbfafa;
+}
+
+
+.v-window-maximizebox,
+.v-select-optiongroup.v-widget,
+.v-window-wrap div.v-window-header {
+    display: none;
+}
+
+#footer_html {
+    font-size: 13px;
+    text-align: left;
+}
+#footer_html p,
+#footer_html li {
+    white-space: normal;
+}
+
+.v-window,
+.v-shadow-window {
+    top: 10px !important;
+}
+
+.v-button-wrap {
+    cursor: pointer;
+}
+
+@media (max-width: 721px) {
+    .v-window-wrap .v-window-outerheader {
+        background: url(images/headerbeeld.jpg) no-repeat;
+        height: auto;
+    }
+
+    .v-window,
+    .v-window.v-has-width > div.popupContent,
+    .v-shadow-window,
+    .v-window-wrap .v-window-outerheader,
+    .v-window.v-has-width .v-window,
+    .v-window.v-has-width .v-window-wrap,
+    .v-window.v-has-width .v-window-contents,
+    .v-window.v-has-width .v-window-contents > div {
+        width: 100%;
+    }
+
+
+}
+@media (min-width: 721px) {
+    .v-window-wrap .v-window-outerheader {
+        background: url(images/headerbeeld.jpg) no-repeat;
+        height: 228px;
+    }
+
+    .v-window,
+    .v-window.v-has-width > div.popupContent,
+    .v-shadow-window,
+    .v-window-wrap .v-window-outerheader,
+    .v-window.v-has-width .v-window,
+    .v-window.v-has-width .v-window-wrap,
+    .v-window.v-has-width .v-window-contents,
+    .v-window.v-has-width .v-window-contents > div {
+        width: 721px !important;
+    }
+
+    .v-horizontallayout.v-layout.v-horizontal.v-widget.v-margin-top.v-margin-left {
+        width: 392px;
+    }
+
+    .v-shadow-window {
+        height: 618px !important;
+    }
+}
