@@ -15,8 +15,8 @@ URL en path op de FileMaker 13 Server
 > URL: 
   [http://fmprod04.hsleiden.intra/fmi/webd#Mediacentrum](http://fmprod04.hsleiden.intra/fmi/webd#Mediacentrum)
   
-> URL incl. Homepage parameter: 
-  [http://fmprod04.hsleiden.intra/fmi/webd?homeurl=http://fmprod04.hsleiden.intra/hsleiden_homepage.html#Mediacentrum](http://fmprod04.hsleiden.intra/fmi/webd?homeurl=http://fmprod04.hsleiden.intra/hsleiden_homepage.html#Mediacentrum)
+> URL incl. homeurl parameter: 
+  [http://fmprod04.hsleiden.intra/fmi/webd?homeurl=http://fmprod04.hsleiden.intra/mediacentrum#Mediacentrum](http://fmprod04.hsleiden.intra/fmi/webd?homeurl=http://fmprod04.hsleiden.intra/mediacentrum#Mediacentrum)
 
 Path op de Windows 2012 R2 Server
 > **D:\FileMaker\Web Publishing\publishing-engine\jwpc-tomcat\fmi\VAADIN\themes\default\layouts** 

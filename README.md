@@ -15,7 +15,7 @@ Per database maken we hier een specifieke homepage.
 Dit is ook de pagina waar men op terugkeert na het uitloggen vanuit een specifieke FM Database binnen de Webdirect omgeving.
 
 Voorbeeld van een URL:
-> URL: [http://fmprod04.hsleiden.intra/hsleiden_homepage.html](http://fmprod04.hsleiden.intra/hsleiden_homepage.html)
+> URL: [http://fmprod04.hsleiden.intra/mediacentrum](http://fmprod04.hsleiden.intra/mediacentrum)
 
 - - -
 

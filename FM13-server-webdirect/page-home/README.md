@@ -10,7 +10,7 @@ van FileMaker 13 Server - WebDirect
 ## URL en Server Path
 
 Voorbeeld van een URL:
-> URL: [http://fmprod04.hsleiden.intra/hsleiden_homepage.html](http://fmprod04.hsleiden.intra/hsleiden_homepage.html)
+> URL: [http://fmprod04.hsleiden.intra/mediacentrum](http://fmprod04.hsleiden.intra/mediacentrum.html)
 
 Path op de Windows 2012 R2 Server
 > **D:\FileMaker\HTTPServer\conf** 
