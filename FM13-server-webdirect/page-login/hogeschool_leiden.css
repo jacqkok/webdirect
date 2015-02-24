@@ -7,7 +7,8 @@ body .v-window-modalitycurtain {
 
 .v-window-maximizebox,
 .v-select-optiongroup.v-widget,
-.v-window-wrap div.v-window-header {
+.v-window-wrap div.v-window-header,
+.v-slot.v-align-center.v-align-middle .v-expand .v-slot .v-label.v-widget.v-has-width {
     display: none;
 }
 
