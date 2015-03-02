@@ -13,6 +13,7 @@ body .v-window-modalitycurtain {
 }
 
 #footer_html {
+    display: none;
     font-size: 13px;
     text-align: left;
 }
@@ -28,6 +29,25 @@ body .v-window-modalitycurtain {
 
 .v-button-wrap {
     cursor: pointer;
+}
+
+.v-label-login_header {
+    background: url(images/login-header-text.png?v=11) no-repeat top left;
+    color: white;
+    width: 315px;
+    height: 40px;
+    padding-top:40px;
+    overflow: hidden;
+}
+.v-slot.v-align-right.v-align-bottom {
+    background: url(images/login-footer-text.png) no-repeat bottom left;
+    height: 220px;
+}
+.v-slot.v-align-right.v-align-bottom:before {
+    display: none !important;
+}
+.v-slot.v-align-right.v-align-bottom .v-widget {
+    padding-top: 5px;
 }
 
 @media (max-width: 721px) {
@@ -71,6 +91,6 @@ body .v-window-modalitycurtain {
     }
 
     .v-shadow-window {
-        height: 618px !important;
+        height: 620px !important;
     }
 }

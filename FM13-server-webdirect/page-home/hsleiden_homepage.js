@@ -33,8 +33,10 @@ function setPageStyle() {
     /**
      * Start timeout
      */
-    //timeout_key = setTimeout(setFrameStyle, 500);
-    timeout_key = setTimeout(setFooterHeaderText, 500);
+    /**
+     * 2015-03-02 setFooterHeaderText vervangen door CSS
+     */
+    //timeout_key = setTimeout(setFooterHeaderText, 500);
 
     /**
      * Example:

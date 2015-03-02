@@ -19,7 +19,7 @@ URL en path op de FileMaker 13 Server
   [http://fmprod04.hsleiden.intra/fmi/webd?homeurl=http://fmprod04.hsleiden.intra/mediacentrum#Mediacentrum](http://fmprod04.hsleiden.intra/fmi/webd?homeurl=http://fmprod04.hsleiden.intra/mediacentrum#Mediacentrum)
 
 Path op de Windows 2012 R2 Server
-> **D:\FileMaker\Web Publishing\publishing-engine\jwpc-tomcat\fmi\VAADIN\themes\default\layouts** 
+> **D:\FileMaker\Web Publishing\publishing-engine\jwpc-tomcat\fmi\VAADIN\themes\default** 
 
 - - -
 
