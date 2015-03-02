@@ -70,6 +70,7 @@ body .v-window-modalitycurtain {
 
 }
 @media (min-width: 721px) {
+
     .v-window-wrap .v-window-outerheader {
         background: url(images/headerbeeld.jpg) no-repeat;
         height: 228px;
@@ -92,5 +93,10 @@ body .v-window-modalitycurtain {
 
     .v-shadow-window {
         height: 620px !important;
+    }
+    .popupContent,
+    .v-window.v-widget.v-readonly.v-has-width {
+        height: 620px !important;
+        overflow: hidden;
     }
 }
