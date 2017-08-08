@@ -1,7 +1,5 @@
-
-
 body .v-window-modalitycurtain {
-    background: #fbfafa;
+    background: #ffffff;
 }
 
 
@@ -17,7 +15,7 @@ body .v-window-modalitycurtain {
     font-size: 13px;
     text-align: left;
 }
-#footer_html p,
+footer_html p,
 #footer_html li {
     white-space: normal;
 }
@@ -26,6 +24,7 @@ body .v-window-modalitycurtain {
 .v-shadow-window {
     top: 10px !important;
 }
+
 
 .v-button-wrap {
     cursor: pointer;
@@ -43,6 +42,10 @@ body .v-window-modalitycurtain {
     background: url(images/login-footer-text.png) no-repeat bottom left;
     height: 220px;
 }
+.upload-window .v-slot.v-align-right.v-align-bottom {
+    background: none;
+    height: 530px;
+}
 .v-slot.v-align-right.v-align-bottom:before {
     display: none !important;
 }
@@ -54,6 +57,10 @@ body .v-window-modalitycurtain {
     .v-window-wrap .v-window-outerheader {
         background: url(images/headerbeeld.jpg) no-repeat;
         height: auto;
+    }
+    .v-window-wrap.upload-window .v-window-outerheader {
+        background: none;
+        height: 1px;
     }
 
     .v-window,
@@ -74,6 +81,10 @@ body .v-window-modalitycurtain {
     .v-window-wrap .v-window-outerheader {
         background: url(images/headerbeeld.jpg) no-repeat;
         height: 228px;
+    }
+    .v-window-wrap.upload-window .v-window-outerheader {
+        background: none;
+        height: 1px;
     }
 
     .v-window,
